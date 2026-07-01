@@ -5,7 +5,7 @@
 ---
 💡 Sobre mim
 
-💻 Área de interesse: Desenvolvimento Front-End.
+💻 Área de interesse: Buscando uma oportunidade de estágio na área de Tecnologia da Informação, com foco em Desenvolvimento de Software.
 <p>📚 Atualmente aprendendo: Lógica de Programação, C#, HTML, CSS e JavaScript. </p>
 <p>🎓 Graduação: Ciência da Computação pela FECAP. </p>
 <p> 🚀 Objetivo: Atuar profissionalmente como desenvolvedor Front-End. </p>
