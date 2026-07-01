@@ -35,7 +35,7 @@
 
 ---
 
-🌎 Contato
+🌐 Conecte-se comigo
      <div align="center">
                 <a href="mailto:kauacasella2018@gmail.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
@@ -43,4 +43,15 @@
 <a href="https://www.instagram.com/_kaua911">
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50"/>
 </a>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kaua-casella">
+<img src="https://img.shields.io/badge/LinkedIn-Kauã%20Casella-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://kauacasella2018-cpu.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visite%20meu%20site-111111?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
+</p>
             </div>
