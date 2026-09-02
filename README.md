@@ -11,14 +11,8 @@
 <p> 🚀 Objetivo: Atuar profissionalmente na área de Dados, contribuindo com análise, organização e tratamento de informações, enquanto desenvolvo e aprimoro meus conhecimentos técnicos.. </p>
 
 
----
-
-📊 Minhas estatísticas
-<div align="center">
 
 
-
-</div>
 
 ---
 
