@@ -8,7 +8,7 @@
 💻 Área de interesse: Buscando uma oportunidade de estágio na área de Tecnologia da Informação, com foco em Desenvolvimento de Software.
 <p>📚 Atualmente aprendendo: Banco de dados(Mysql), back-end, HTML, CSS e JavaScript. </p>
 <p>🎓 Graduação: Ciência da Computação pela FECAP. </p>
-<p> 🚀 Objetivo: Atuar profissionalmente como desenvolvedor Front-End. </p>
+<p> 🚀 Objetivo: Atuar profissionalmente na área de Dados, contribuindo com análise, organização e tratamento de informações, enquanto desenvolvo e aprimoro meus conhecimentos técnicos.. </p>
 
 
 ---
