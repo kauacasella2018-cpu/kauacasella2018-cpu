@@ -1,4 +1,5 @@
 <!-- KC//GITHUB v2.0 — Kauã Casella · identidade "Alta Performance" -->
+<!-- Responsivo: sem tabelas de colunas fixas; imagens com largura fixa encolhem (max-width 100%) e quebram de linha no mobile -->
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Kauã Casella — Código é treino." width="100%"/>
@@ -15,30 +16,23 @@
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ```python
 class KauaCasella:
 
-    # ── Stack ──────────────────────────
-    languages  = ["Python", "JavaScript",
-                  "C#"]
+    # ── Stack ─────────────────────────
+    languages  = ["Python", "JavaScript", "C#"]
     web        = ["HTML5", "CSS3"]
     databases  = ["MySQL"]
     tools      = ["Figma", "Unity"]
 
-    # ── Sobre mim ──────────────────────
+    # ── Sobre mim ─────────────────────
     graduacao  = "🎓 Ciência da Computação — FECAP"
     interesse  = "💻 Estágio em TI"
-    aprendendo = ("📚 MySQL, back-end, HTML,"
-                  " CSS e JavaScript")
+    aprendendo = "📚 MySQL, back-end, HTML, CSS e JS"
     objetivo   = ("🚀 Atuar na área de Dados:"
                   " análise, organização e"
                   " tratamento de informações")
-    fora_do_pc = ("🏋️ academia · 🤾 handebol"
-                  " · 🎯 FPS tático")
+    fora_do_pc = "🏋️ academia · 🤾 handebol · 🎯 FPS"
 
     def __str__(self) -> str:
         return (
@@ -50,67 +44,55 @@ class KauaCasella:
 print(KauaCasella())
 ```
 
-</td>
-<td width="45%" valign="top" align="center">
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=kauacasella2018-cpu&show_icons=true&hide_rank=false&bg_color=0B0B0C&title_color=C6F432&icon_color=C6F432&text_color=FFFFFF&border_color=2A2C31&ring_color=C6F432&locale=pt-br&custom_title=Stats" alt="GitHub Stats"/>
+  <img width="420" src="https://streak-stats.demolab.com?user=kauacasella2018-cpu&locale=pt_BR&background=0B0B0C&border=2A2C31&ring=C6F432&fire=C6F432&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C6F432&sideLabels=8A8F98&dates=8A8F98&stroke=2A2C31" alt="GitHub Streak"/>
+</p>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kauacasella2018-cpu&show_icons=true&hide_rank=false&bg_color=0B0B0C&title_color=C6F432&icon_color=C6F432&text_color=FFFFFF&border_color=2A2C31&ring_color=C6F432&locale=pt-br&custom_title=Stats"/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=kauacasella2018-cpu&locale=pt_BR&background=0B0B0C&border=2A2C31&ring=C6F432&fire=C6F432&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C6F432&sideLabels=8A8F98&dates=8A8F98&stroke=2A2C31"/>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauacasella2018-cpu&layout=compact&bg_color=0B0B0C&title_color=C6F432&text_color=FFFFFF&border_color=2A2C31&locale=pt-br"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauacasella2018-cpu&layout=compact&bg_color=0B0B0C&title_color=C6F432&text_color=FFFFFF&border_color=2A2C31&locale=pt-br" alt="Linguagens mais usadas"/>
+</p>
 
 ---
 
 <h3 align="center">🚀 Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,unity,figma&theme=dark&perline=8" alt="Skills"/>
+  <img width="400" src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,unity,figma&theme=dark&perline=8" alt="Skills"/>
 </p>
 
-<div align="center">
+<p align="center"><code>// WEB</code></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-0B0B0C?style=for-the-badge&logo=html5&logoColor=C6F432"/>
+  <img src="https://img.shields.io/badge/CSS3-0B0B0C?style=for-the-badge&logo=css3&logoColor=C6F432"/>
+  <img src="https://img.shields.io/badge/JavaScript-0B0B0C?style=for-the-badge&logo=javascript&logoColor=C6F432"/>
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="25%"><code>// WEB</code></td>
-    <td align="center" width="25%"><code>// LINGUAGENS</code></td>
-    <td align="center" width="25%"><code>// DADOS</code></td>
-    <td align="center" width="25%"><code>// FERRAMENTAS</code></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/HTML5-0B0B0C?style=for-the-badge&logo=html5&logoColor=C6F432"/><br/>
-      <img src="https://img.shields.io/badge/CSS3-0B0B0C?style=for-the-badge&logo=css3&logoColor=C6F432"/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-0B0B0C?style=for-the-badge&logo=javascript&logoColor=C6F432"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Python-0B0B0C?style=for-the-badge&logo=python&logoColor=C6F432"/><br/>
-      <img src="https://img.shields.io/badge/C%23-0B0B0C?style=for-the-badge&logo=sharp&logoColor=C6F432"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/MySQL-0B0B0C?style=for-the-badge&logo=mysql&logoColor=C6F432"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Figma-0B0B0C?style=for-the-badge&logo=figma&logoColor=C6F432"/><br/>
-      <img src="https://img.shields.io/badge/Unity-0B0B0C?style=for-the-badge&logo=unity&logoColor=C6F432"/>
-    </td>
-  </tr>
-</table>
+<p align="center"><code>// LINGUAGENS</code></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0B0B0C?style=for-the-badge&logo=python&logoColor=C6F432"/>
+  <img src="https://img.shields.io/badge/C%23-0B0B0C?style=for-the-badge&logo=sharp&logoColor=C6F432"/>
+</p>
 
-</div>
+<p align="center"><code>// DADOS</code></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-0B0B0C?style=for-the-badge&logo=mysql&logoColor=C6F432"/>
+</p>
+
+<p align="center"><code>// FERRAMENTAS</code></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-0B0B0C?style=for-the-badge&logo=figma&logoColor=C6F432"/>
+  <img src="https://img.shields.io/badge/Unity-0B0B0C?style=for-the-badge&logo=unity&logoColor=C6F432"/>
+</p>
+
+<br/>
 
 <p align="center"><code>◎ QUEST PRINCIPAL</code></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/01-FRONT--END%20%E2%9C%93-C6F432?style=for-the-badge&labelColor=0B0B0C"/>
-  &nbsp;→&nbsp;
   <img src="https://img.shields.io/badge/02-MYSQL%20%C2%B7%20EM%20TREINO-2A2C31?style=for-the-badge&labelColor=0B0B0C"/>
-  &nbsp;→&nbsp;
   <img src="https://img.shields.io/badge/03-BACK--END%20%C2%B7%20EM%20TREINO-2A2C31?style=for-the-badge&labelColor=0B0B0C"/>
-  &nbsp;→&nbsp;
   <img src="https://img.shields.io/badge/04-DADOS%20%F0%9F%8E%AF-0B0B0C?style=for-the-badge&labelColor=C6F432&color=0B0B0C"/>
 </p>
 
