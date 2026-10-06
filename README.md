@@ -65,20 +65,54 @@ print(KauaCasella())
 
 ---
 
-### 🚀 Skills
+<h3 align="center">🚀 Skills</h3>
 
-<img src="https://img.shields.io/badge/HTML5-0B0B0C?style=for-the-badge&logo=html5&logoColor=C6F432"/>
-<img src="https://img.shields.io/badge/CSS3-0B0B0C?style=for-the-badge&logo=css3&logoColor=C6F432"/>
-<img src="https://img.shields.io/badge/JavaScript-0B0B0C?style=for-the-badge&logo=javascript&logoColor=C6F432"/>
-<img src="https://img.shields.io/badge/Python-0B0B0C?style=for-the-badge&logo=python&logoColor=C6F432"/>
-<img src="https://img.shields.io/badge/MySQL-0B0B0C?style=for-the-badge&logo=mysql&logoColor=C6F432"/>
-<img src="https://img.shields.io/badge/Figma-0B0B0C?style=for-the-badge&logo=figma&logoColor=C6F432"/>
-<img src="https://img.shields.io/badge/Unity-0B0B0C?style=for-the-badge&logo=unity&logoColor=C6F432"/>
-<img src="https://img.shields.io/badge/C%23-0B0B0C?style=for-the-badge&logo=sharp&logoColor=C6F432"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,unity,figma&theme=dark&perline=8" alt="Skills"/>
+</p>
 
-<br/>
+<div align="center">
 
-**◎ Quest principal:** Front-end ✅ → MySQL 🔄 → Back-end 🔄 → **Dados** 🎯
+<table>
+  <tr>
+    <td align="center" width="25%"><code>// WEB</code></td>
+    <td align="center" width="25%"><code>// LINGUAGENS</code></td>
+    <td align="center" width="25%"><code>// DADOS</code></td>
+    <td align="center" width="25%"><code>// FERRAMENTAS</code></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/HTML5-0B0B0C?style=for-the-badge&logo=html5&logoColor=C6F432"/><br/>
+      <img src="https://img.shields.io/badge/CSS3-0B0B0C?style=for-the-badge&logo=css3&logoColor=C6F432"/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-0B0B0C?style=for-the-badge&logo=javascript&logoColor=C6F432"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Python-0B0B0C?style=for-the-badge&logo=python&logoColor=C6F432"/><br/>
+      <img src="https://img.shields.io/badge/C%23-0B0B0C?style=for-the-badge&logo=sharp&logoColor=C6F432"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/MySQL-0B0B0C?style=for-the-badge&logo=mysql&logoColor=C6F432"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Figma-0B0B0C?style=for-the-badge&logo=figma&logoColor=C6F432"/><br/>
+      <img src="https://img.shields.io/badge/Unity-0B0B0C?style=for-the-badge&logo=unity&logoColor=C6F432"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<p align="center"><code>◎ QUEST PRINCIPAL</code></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01-FRONT--END%20%E2%9C%93-C6F432?style=for-the-badge&labelColor=0B0B0C"/>
+  &nbsp;→&nbsp;
+  <img src="https://img.shields.io/badge/02-MYSQL%20%C2%B7%20EM%20TREINO-2A2C31?style=for-the-badge&labelColor=0B0B0C"/>
+  &nbsp;→&nbsp;
+  <img src="https://img.shields.io/badge/03-BACK--END%20%C2%B7%20EM%20TREINO-2A2C31?style=for-the-badge&labelColor=0B0B0C"/>
+  &nbsp;→&nbsp;
+  <img src="https://img.shields.io/badge/04-DADOS%20%F0%9F%8E%AF-0B0B0C?style=for-the-badge&labelColor=C6F432&color=0B0B0C"/>
+</p>
 
 ---
 
