@@ -89,34 +89,4 @@ print(KauaCasella())
 
 ### <img src="https://img.shields.io/badge/●-C6F432?style=flat-square&labelColor=C6F432"/> Agora
 
-| | |
-|:--|:--|
-| `ESTUDANDO` | MySQL e back-end |
-| `TREINO` | academia 🏋️ |
-| `QUADRA` | handebol 🤾 |
-| `JOGANDO` | FPS tático 🎯 |
-
-> *"Treino é rotina, não motivação."*
-
-</td>
-</tr>
-</table>
-
----
-
-### ⚡ Missões concluídas
-
-| # | Missão | Sobre | Stack |
-|:--:|:--|:--|:--|
-| `01` | **AgroCap — Colheita Rápida** | Jogo inspirado em pinball, feito em equipe na FECAP. | `Unity` `C#` `POO` |
-| `02` | **TechSkill** | Página de login minimalista com tema retrô-noturno. | `HTML` `CSS` `JS` |
-| `03` | **Drink Cans** | Vitrine interativa de latas com foco em animações. | `HTML` `CSS` `JS` |
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaua-casella"><img src="https://img.shields.io/badge/LinkedIn%20%7C%20Kau%C3%A3%20Casella-0B0B0C?style=for-the-badge&logo=linkedin&logoColor=C6F432"/></a>
-  <a href="https://kauacasella2018-cpu.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio%20%7C%20Visite%20meu%20site-C6F432?style=for-the-badge&logo=githubpages&logoColor=0B0B0C"/></a>
-</p>
-
 <p align="center"><sub><b><i>GG. Código é treino.</i></b></sub></p>
