@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Brasil-BR-C6F432?style=flat-square&labelColor=0B0B0C"/>
   <a href="https://www.linkedin.com/in/kaua-casella"><img src="https://img.shields.io/badge/LinkedIn-0B0B0C?style=flat-square&logo=linkedin&logoColor=C6F432"/></a>
   <a href="mailto:kauacasella2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B0B0C?style=flat-square&logo=gmail&logoColor=C6F432"/></a>
-  <a href="https://kauacasella2018-cpu.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-C6F432?style=flat-square&logo=githubpages&logoColor=0B0B0C"/></a>
+  <a href="https://portfolio-kaua-xi.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-C6F432?style=flat-square&logo=vercel&logoColor=0B0B0C"/></a>
 </p>
 
 ---
@@ -65,10 +65,6 @@ print(KauaCasella())
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🚀 Skills
 
 <img src="https://img.shields.io/badge/HTML5-0B0B0C?style=for-the-badge&logo=html5&logoColor=C6F432"/>
@@ -84,9 +80,6 @@ print(KauaCasella())
 
 **◎ Quest principal:** Front-end ✅ → MySQL 🔄 → Back-end 🔄 → **Dados** 🎯
 
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://img.shields.io/badge/●-C6F432?style=flat-square&labelColor=C6F432"/> Agora
+---
 
 <p align="center"><sub><b><i>GG. Código é treino.</i></b></sub></p>
